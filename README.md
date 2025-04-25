@@ -1,6 +1,6 @@
 # MERN Stack AI_Image Generate
 This is a MERN Stack learning from Javascript Mastery on Youtube
-# Getting Start Client server
+## Getting Start Client server
 First , You have to run command for install dependencies for client with
 ```bash
 npm i
